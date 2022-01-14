@@ -1,4 +1,4 @@
-# RectanglePro-Community
+# Rectangle Pro Community
 
 Rectangle Pro is a closed source superset of the Rectangle macOS app for window management. 
 
