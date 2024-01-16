@@ -114,6 +114,12 @@ bottom-right-eighth
   ```
 </details>
 
+There are two available pin mode actions:
+
+`open -g "rectangle-pro://execute-action?name=pin"`
+
+`open -g "rectangle-pro://execute-action?name=reflow-pin"`
+
 For application layouts you've created, use the name you gave it
 
 `open -g "rectangle-pro://execute-layout?name=applayout1"` 
