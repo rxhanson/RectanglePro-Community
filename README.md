@@ -4,7 +4,11 @@ Rectangle Pro is a closed source superset of the Rectangle macOS app for window 
 
 Since Rectangle Pro is a separate app with much more functionality, this repository is for issues and discussions specifically related to Rectangle Pro.
 
+## Common Issues
+
 [FAQ/Discussions](https://github.com/rxhanson/RectanglePro-Community/discussions)
+
+[What to do when the menu items are greyed out / disabled](https://github.com/rxhanson/RectanglePro-Community/discussions/523)
 
 ## Terminal commands
 
