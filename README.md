@@ -76,8 +76,8 @@ quit-app
 hide-app
 cascade-all
 cascade-app
-tile-2x2
-tile-2x3
+tile2x2
+tile2x3
 reveal-desktop-edge
 app-next-display
 app-prev-display
