@@ -20,7 +20,7 @@ You can programmatically trigger any of the Rectangle Pro actions using urls.
 
 Here are some examples:
 
-* For options that already exist, like left half: 
+#### For options that already exist, like left half: 
 
 `open -g "rectangle-pro://execute-action?name=left-half"`
 
@@ -141,16 +141,16 @@ prev-space
   ```
 </details>
 
-### There are two available pin mode actions:
+#### There are two available pin mode actions:
 
 `open -g "rectangle-pro://execute-action?name=pin"`
 
 `open -g "rectangle-pro://execute-action?name=reflow-pin"`
 
-### For application layouts you've created, use the name you gave it
+#### For application layouts you've created, use the name you gave it
 
 `open -g "rectangle-pro://execute-layout?name=applayout1"` 
 
-### For custom shortcuts you've created, also use the name you gave it
+#### For custom shortcuts you've created, also use the name you gave it
 
 `open -g "rectangle-pro://execute-custom?name=custom1"`
