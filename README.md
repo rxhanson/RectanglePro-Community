@@ -149,7 +149,7 @@ prev-space
 
 #### For application layouts you've created, use the name you gave it
 
-`open -g "rectangle-pro://execute-layout?name=applayout1"` 
+`open -g "rectangle-pro://execute-layout?name=Layout 1"` 
 
 #### For custom shortcuts you've created, also use the name you gave it
 
